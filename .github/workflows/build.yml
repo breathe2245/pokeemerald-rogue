@@ -24,7 +24,7 @@ jobs:
       GAME_LANGUAGE: ENGLISH
       MODERN: 0
       COMPARE: 0
-      AUTOMATION_HOST: GITHUB
+      UNUSED_ERROR: 0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -53,13 +53,23 @@ jobs:
           ./install.sh ../
         working-directory: agbcc
 
+      #- name: Agbcc
+      #  env:
+      #    MODERN: 0
+      #    COMPARE: 0
+      #  run: make -j${nproc} -O all
+
       - name: Build Debug
         env:
+          MODERN: 1
+          COMPARE: 0
           RELEASE: 0
         run: make -j${nproc} -O all
 
       - name: Build Release
         env:
+          MODERN: 1
+          COMPARE: 0
           RELEASE: 1
         run: make -j${nproc} -O all
 
@@ -69,13 +79,10 @@ jobs:
           name: Memory Stats
           path: pokeemerald_memorystats.csv
 
-      # - name: Modern
-      #   env:
-      #     MODERN: 1
-      #     COMPARE: 0
-      #   run: make -j${nproc} -O all
-
-      # - name: Test
-      #   run: |
-      #     make -j${nproc} -O pokeemerald-test.elf
-      #     make -j${nproc} check
+      - name: Test
+        env:
+          MODERN: 1
+          TEST: 1
+        run: |
+          make -j${nproc} -O pokeemerald-test.elf
+          make -j${nproc} check
