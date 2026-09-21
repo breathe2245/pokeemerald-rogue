@@ -2,9 +2,31 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+   "PerSpecies": {
+    "SPECIES_HATTERENE": {
+      "Abilities": [
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_BERSERK",
+        "ABILITY_MAGIC_BOUNCE"
+      ],
+      "BaseStats": {
+        "HP": 81,
+        "Attack": 80,
+        "Defense": 106,
+        "Speed": 29,
+        "SpAttack": 161,
+        "SpDefense": 143
+      }
+    }
+  },
   "TutorMoves": [
     "MOVE_FRUSTRATION",
     "MOVE_TOXIC",
+    "MOVE_MOONBLAST",
+    "MOVE_RECOVER",
+    "MOVE_NASTY_PLOT",
+    "MOVE_AURA_SPHERE",
+    "MOVE_WILL_O_WISP",
     "MOVE_RETURN"
   ]
 }
