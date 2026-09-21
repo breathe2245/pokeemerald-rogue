@@ -34,7 +34,8 @@
     }
   ],
   "TutorMoves": [
-    "MOVE_ANCIENT_POWER"
+    "MOVE_ANCIENT_POWER",
+    "MOVE_CALM_MIND"
   ],
   "CompetitiveSets": [
     {
