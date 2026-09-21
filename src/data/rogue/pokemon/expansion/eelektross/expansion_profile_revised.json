@@ -4,6 +4,41 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+   "PerSpecies": {
+    "SPECIES_EELEKTROSS": {
+      "Types": [
+        "TYPE_ELECTRIC",
+        "TYPE_DARK"
+      ],
+      "Abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_STRONG_JAW",
+        "ABILITY_TRANSISTOR"
+      ],
+      "BaseStats": {
+        "HP": 87,
+        "Attack": 137,
+        "Defense": 99,
+        "Speed": 31,
+        "SpAttack": 137,
+        "SpDefense": 109
+      }
+    }
+     "SPECIES_EELEKTROSS_MEGA": {
+        "Types": [
+        "TYPE_ELECTRIC",
+        "TYPE_DARK"
+      ],
+      "BaseStats": {
+        "HP": 87,
+        "Attack": 137,
+        "Defense": 109,
+        "Speed": 111,
+        "SpAttack": 137,
+        "SpDefense": 119
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_OUTRAGE",
@@ -65,6 +100,10 @@
       "Move": "MOVE_DISCHARGE",
       "Level": 1
     },
+     {
+      "Move": "MOVE_RECOVER",
+      "Level": 1
+    },
     {
       "Move": "MOVE_CLOSE_COMBAT",
       "Level": 75
@@ -73,6 +112,12 @@
   "TutorMoves": [
     "MOVE_PSYCHIC_FANGS",
     "MOVE_DRAINING_KISS",
+    "MOVE_FIRE_FANG",
+    "MOVE_ICE_FANG",
+    "MOVE_DARK_PULSE",
+    "MOVE_NASTY_PLOT",
+    "MOVE_SUCKER_PUNCH",
+    "MOVE_PARABOLIC_CHARGE",
     "MOVE_LEECH_LIFE"
   ],
   "CompetitiveSets": [
