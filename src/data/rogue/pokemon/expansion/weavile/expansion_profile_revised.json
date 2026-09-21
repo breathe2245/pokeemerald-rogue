@@ -2,7 +2,17 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_SNEASEL": {
+      "Abilities": [
+        "ABILITY_INNER_FOCUS",
+        "ABILITY_SHARPNESS",
+        "ABILITY_TECHNICIAN"
+      ]
+    }
+  },
   "TutorMoves": [
-    "MOVE_CRUNCH"
+    "MOVE_CRUNCH",
+    "MOVE_CEASELESS_EDGE"
   ]
 }
