@@ -1,0 +1,37 @@
+{
+  "BuildSettings": {
+    "TutorMoves": "MERGE",
+  },
+   "PerSpecies": {
+    "SPECIES_ABOMASNOW": {
+      "BaseStats": {
+        "HP": 125,
+        "Attack": 135,
+        "Defense": 80,
+        "Speed": 30,
+        "SpAttack": 50,
+        "SpDefense": 130
+      }
+    }
+     "SPECIES_ABOMASNOW_MEGA": {
+        "Abilities": [
+        "ABILITY_FUR_COAT",
+        "ABILITY_FUR_COAT",
+        "ABILITY_FUR_COAT",
+      ],
+      "BaseStats": {
+        "HP": 125,
+        "Attack": 165,
+        "Defense": 120,
+        "Speed": 20,
+        "SpAttack": 60,
+        "SpDefense": 150
+      }
+    }
+  },
+  "TutorMoves": [
+    "MOVE_RECOVER",
+    "MOVE_ICICLE_CRASH",
+    "MOVE_MOUNTAIN_GALE"
+  ],
+}
