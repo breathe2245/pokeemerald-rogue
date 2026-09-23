@@ -8,7 +8,7 @@
     "SPECIES_ONIX": {
       "BaseStats": {
         "HP": 35,
-        "Attack": 75,
+        "Attack": 90,
         "Defense": 160,
         "Speed": 80,
         "SpAttack": 30,
