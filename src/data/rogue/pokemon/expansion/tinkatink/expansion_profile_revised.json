@@ -5,25 +5,20 @@
   "Evolutions": [
     {
       "Method": "EVO_LEVEL",
-      "Param": "52",
-      "Species": "SPECIES_GRIMMSNARL"
+      "Param": "38",
+      "Species": "SPECIES_TINKATUFF"
     }
   ],
   "PerSpecies": {
-    "SPECIES_MORGREM": {
+    "SPECIES_TINKATINK": {
       "BaseStats": {
-        "HP": 70,
-        "Attack": 60,
-        "Defense": 55,
-        "Speed": 80,
-        "SpAttack": 85,
-        "SpDefense": 70
+        "HP": 50,
+        "Attack": 48,
+        "Defense": 45,
+        "Speed": 58,
+        "SpAttack": 35,
+        "SpDefense": 64
       }
     }
   }
-  "TutorMoves": [
-    "MOVE_FRUSTRATION",
-    "MOVE_TOXIC",
-    "MOVE_RETURN"
-  ]
 }
