@@ -10,13 +10,18 @@
         "TYPE_GHOST",
         "TYPE_NORMAL"
       ],
+      "Abilities": [
+        "ABILITY_DISGUISE",
+        "ABILITY_MAGIC_BOUNCE",
+        "ABILITY_CURSED_BODY"
+      ],
       "BaseStats": {
-        "HP": 64,
+        "HP": 94,
         "Attack": 125,
-        "Defense": 65,
-        "Speed": 65,
-        "SpAttack": 93,
-        "SpDefense": 63
+        "Defense": 100,
+        "Speed": 55,
+        "SpAttack": 63,
+        "SpDefense": 98
       }
     },
     "SPECIES_BANETTE_MEGA": {
@@ -25,12 +30,12 @@
         "TYPE_NORMAL"
       ],
       "BaseStats": {
-        "HP": 64,
+        "HP": 94,
         "Attack": 175,
-        "Defense": 75,
-        "Speed": 75,
-        "SpAttack": 103,
-        "SpDefense": 83
+        "Defense": 125,
+        "Speed": 55,
+        "SpAttack": 63,
+        "SpDefense": 123
       }
     }
   },
@@ -130,6 +135,7 @@
   ],
   "TutorMoves": [
     "MOVE_RETURN",
+    "MOVE_RECOVER",
     "MOVE_CUT"
   ],
   "CompetitiveSets": [
