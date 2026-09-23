@@ -2,6 +2,25 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "52",
+      "Species": "SPECIES_HATTERENE"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_HATTREM": {
+      "BaseStats": {
+        "HP": 67,
+        "Attack": 50,
+        "Defense": 75,
+        "Speed": 49,
+        "SpAttack": 96,
+        "SpDefense": 83
+      }
+    }
+  }
   "TutorMoves": [
     "MOVE_FRUSTRATION",
     "MOVE_TOXIC",
