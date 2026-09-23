@@ -4,6 +4,23 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+     "SPECIES_GARCHOMP_MEGA": {
+        "Abilities": [
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOUGH_CLAWS"
+      ],
+      "BaseStats": {
+        "HP": 108,
+        "Attack": 170,
+        "Defense": 135,
+        "Speed": 92,
+        "SpAttack": 80,
+        "SpDefense": 115
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_CRUNCH",
