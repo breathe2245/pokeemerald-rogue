@@ -122,6 +122,7 @@
   "TutorMoves": [
     "MOVE_ROCK_CLIMB",
     "MOVE_DAZZLING_GLEAM",
+    "MOVE_CALM_MIND",
     "MOVE_PLAY_ROUGH"
   ],
   "CompetitiveSets": [
