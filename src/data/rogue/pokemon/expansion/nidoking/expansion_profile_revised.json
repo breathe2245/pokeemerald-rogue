@@ -1,7 +1,32 @@
 {
   "BuildSettings": {
     "LevelUpMoves": "REPLACE"
+    "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_NIDOKING": {
+      "Abilities": [
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_MERCILESS"
+      ],
+      "BaseStats": {
+        "HP": 90,
+        "Attack": 125,
+        "Defense": 95,
+        "Speed": 95,
+        "SpAttack": 65,
+        "SpDefense": 85
+      }
+    }
+  },
+  "TutorMoves": [
+    "MOVE_GUNK_SHOT",
+    "MOVE_HEADLONG_RUSH",
+    "MOVE_BANEFUL_BUNKER",
+    "MOVE_MOUNTAIN_GALE",
+    "MOVE_CLOSE_COMBAT"
+  ],
   "LevelUpMoves": [
     {
       "Move": "MOVE_DRILL_RUN",
