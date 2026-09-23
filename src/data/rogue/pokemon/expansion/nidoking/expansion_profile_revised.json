@@ -1,6 +1,6 @@
 {
   "BuildSettings": {
-    "LevelUpMoves": "REPLACE"
+    "LevelUpMoves": "REPLACE",
     "TutorMoves": "MERGE"
   },
   "PerSpecies": {
@@ -20,13 +20,6 @@
       }
     }
   },
-  "TutorMoves": [
-    "MOVE_GUNK_SHOT",
-    "MOVE_HEADLONG_RUSH",
-    "MOVE_BANEFUL_BUNKER",
-    "MOVE_MOUNTAIN_GALE",
-    "MOVE_CLOSE_COMBAT"
-  ],
   "LevelUpMoves": [
     {
       "Move": "MOVE_DRILL_RUN",
@@ -68,5 +61,12 @@
       "Move": "MOVE_MEGAHORN",
       "Level": 58
     }
+  ],
+  "TutorMoves": [
+    "MOVE_GUNK_SHOT",
+    "MOVE_HEADLONG_RUSH",
+    "MOVE_BANEFUL_BUNKER",
+    "MOVE_MOUNTAIN_GALE",
+    "MOVE_CLOSE_COMBAT"
   ]
 }
