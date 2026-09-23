@@ -100,7 +100,9 @@
   ],
   "TutorMoves": [
     "MOVE_TOXIC",
-    "MOVE_DAZZLING_GLEAM"
+    "MOVE_DRAINING_KISS",
+    "MOVE_DAZZLING_GLEAM",
+    "MOVE_CALM_MIND"
   ],
   "CompetitiveSets": [
     {
