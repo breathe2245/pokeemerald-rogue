@@ -2,6 +2,25 @@
   "BuildSettings": {
     "LevelUpMoves": "REPLACE"
   },
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "61",
+      "Species": "SPECIES_EELEKTROSS"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_EELEKTRIK": {
+      "BaseStats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 70,
+        "Speed": 40,
+        "SpAttack": 85,
+        "SpDefense": 70
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_CRUNCH",
