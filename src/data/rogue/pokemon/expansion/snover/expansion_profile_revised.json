@@ -1,0 +1,21 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "55",
+      "Species": "SPECIES_ABOMASNOW"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_SNOVER": {
+      "BaseStats": {
+        "HP": 70,
+        "Attack": 85,
+        "Defense": 60,
+        "Speed": 20,
+        "SpAttack": 50,
+        "SpDefense": 75
+      }
+    }
+  }
+}
