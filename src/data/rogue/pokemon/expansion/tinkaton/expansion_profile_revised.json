@@ -3,37 +3,30 @@
     "TutorMoves": "MERGE"
   },
     "PerSpecies": {
-    "SPECIES_GRIMMSNARL": {
+    "SPECIES_TINKATON": {
       "Abilities": [
+        "ABILITY_TECHNICIAN",
         "ABILITY_PRANKSTER",
-        "ABILITY_SHEER_FORCE",
-        "ABILITY_FUR_COAT"
+        "ABILITY_SHEER_FORCE"
       ],
       "BaseStats": {
-        "HP": 120,
-        "Attack": 135,
-        "Defense": 65,
-        "Speed": 60,
-        "SpAttack": 125,
-        "SpDefense": 95
+        "HP": 85,
+        "Attack": 140,
+        "Defense": 115,
+        "Speed": 50,
+        "SpAttack": 85,
+        "SpDefense": 125
       }
     }
   },
   "TutorMoves": [
-    "MOVE_FRUSTRATION",
-    "MOVE_TOXIC",
-    "MOVE_CALM_MIND",
-    "MOVE_SWORD_DANCE",
-    "MOVE_CLOSE_COMBAT",
-    "MOVE_SLACK_OFF",
-    "MOVE_AURA_SPHERE",
-    "MOVE_POWER_WHIP",
-    "MOVE_KNOCK_OFF",
+    "MOVE_SPIRIT_BREAK",
+    "MOVE_PYRO_BALL",
+    "MOVE_BULLET_PUNCH",
     "MOVE_EARTHQUAKE",
-    "MOVE_GUNK_SHOT",
-    "MOVE_SLUDGE_WAVE",
-    "MOVE_THUNDERBOLT",
-    "MOVE_MOONBLAST",
-    "MOVE_RETURN"
+    "MOVE_SLACK_OFF",
+    "MOVE_STORM_THROW",
+    "MOVE_BULLET_SEED",
+    "MOVE_ICICLE_SPEAR"
   ]
 }
