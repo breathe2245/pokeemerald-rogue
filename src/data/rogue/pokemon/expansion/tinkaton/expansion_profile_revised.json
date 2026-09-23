@@ -1,0 +1,39 @@
+{
+  "BuildSettings": {
+    "TutorMoves": "MERGE"
+  },
+    "PerSpecies": {
+    "SPECIES_GRIMMSNARL": {
+      "Abilities": [
+        "ABILITY_PRANKSTER",
+        "ABILITY_SHEER_FORCE",
+        "ABILITY_FUR_COAT"
+      ],
+      "BaseStats": {
+        "HP": 120,
+        "Attack": 135,
+        "Defense": 65,
+        "Speed": 60,
+        "SpAttack": 125,
+        "SpDefense": 95
+      }
+    }
+  },
+  "TutorMoves": [
+    "MOVE_FRUSTRATION",
+    "MOVE_TOXIC",
+    "MOVE_CALM_MIND",
+    "MOVE_SWORD_DANCE",
+    "MOVE_CLOSE_COMBAT",
+    "MOVE_SLACK_OFF",
+    "MOVE_AURA_SPHERE",
+    "MOVE_POWER_WHIP",
+    "MOVE_KNOCK_OFF",
+    "MOVE_EARTHQUAKE",
+    "MOVE_GUNK_SHOT",
+    "MOVE_SLUDGE_WAVE",
+    "MOVE_THUNDERBOLT",
+    "MOVE_MOONBLAST",
+    "MOVE_RETURN"
+  ]
+}
