@@ -2,6 +2,15 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+   "PerSpecies": {
+    "SPECIES_VOLCARONA": {
+      "Abilities": [
+        "ABILITY_FLAME_BODY",
+        "ABILITY_SWARM",
+        "ABILITY_DROUGHT"
+      ],
+    }
+  },
   "TutorMoves": [
     "MOVE_INFERNO"
   ]
