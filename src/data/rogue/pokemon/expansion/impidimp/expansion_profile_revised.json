@@ -2,6 +2,18 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_IMPIDIMP": {
+      "BaseStats": {
+        "HP": 55,
+        "Attack": 45,
+        "Defense": 35,
+        "Speed": 60,
+        "SpAttack": 65,
+        "SpDefense": 40
+      }
+    }
+  }
   "TutorMoves": [
     "MOVE_FRUSTRATION",
     "MOVE_TOXIC",
