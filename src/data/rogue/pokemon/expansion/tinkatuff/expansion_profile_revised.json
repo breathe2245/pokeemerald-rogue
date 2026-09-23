@@ -1,0 +1,29 @@
+{
+  "BuildSettings": {
+    "TutorMoves": "MERGE"
+  },
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "52",
+      "Species": "SPECIES_GRIMMSNARL"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_MORGREM": {
+      "BaseStats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 55,
+        "Speed": 80,
+        "SpAttack": 85,
+        "SpDefense": 70
+      }
+    }
+  }
+  "TutorMoves": [
+    "MOVE_FRUSTRATION",
+    "MOVE_TOXIC",
+    "MOVE_RETURN"
+  ]
+}
