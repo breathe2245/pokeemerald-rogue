@@ -2,6 +2,18 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_HATENNA": {
+      "BaseStats": {
+        "HP": 47,
+        "Attack": 30,
+        "Defense": 55,
+        "Speed": 39,
+        "SpAttack": 66,
+        "SpDefense": 63
+      }
+    }
+  }
   "TutorMoves": [
     "MOVE_FRUSTRATION",
     "MOVE_TOXIC",
