@@ -23,10 +23,30 @@
   "LevelUpMoves": [
     {
       "Move": "MOVE_DRILL_RUN",
-      "Level": 1
+      "Level": 0
     },
     {
       "Move": "MOVE_MEGAHORN",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_CHIP_AWAY",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_THRASH",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_BANEFUL_BUNKER",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_POISON_STING",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_LEER",
       "Level": 1
     },
     {
@@ -38,35 +58,53 @@
       "Level": 1
     },
     {
+      "Move": "MOVE_FURY_ATTACK",
+      "Level": 15
+    },
+    {
+      "Move": "MOVE_TOXIC_SPIKES",
+      "Level": 25
+    },
+    {
       "Move": "MOVE_DOUBLE_KICK",
-      "Level": 1
+      "Level": 29
     },
     {
-      "Move": "MOVE_POISON_STING",
-      "Level": 1
+      "Move": "MOVE_HORN_ATTACK",
+      "Level": 36
     },
     {
-      "Move": "MOVE_CHIP_AWAY",
-      "Level": 23
-    },
-    {
-      "Move": "MOVE_THRASH",
-      "Level": 35
-    },
-    {
-      "Move": "MOVE_EARTH_POWER",
+      "Move": "MOVE_HELPING_HAND",
       "Level": 43
     },
     {
-      "Move": "MOVE_MEGAHORN",
-      "Level": 58
+      "Move": "MOVE_TOXIC",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_FLATTER",
+      "Level": 57
+    },
+    {
+      "Move": "MOVE_POISON_JAB",
+      "Level": 67
+    },
+    {
+      "Move": "MOVE_GUNK_SHOT",
+      "Level": 70
+    },
+    {
+      "Move": "MOVE_EARTH_POWER",
+      "Level": 73
+    },
+    {
+      "Move": "MOVE_HEADLONG_RUSH",
+      "Level": 81
     }
   ],
   "TutorMoves": [
-    "MOVE_GUNK_SHOT",
-    "MOVE_HEADLONG_RUSH",
-    "MOVE_BANEFUL_BUNKER",
-    "MOVE_MOUNTAIN_GALE",
-    "MOVE_CLOSE_COMBAT"
+    "MOVE_CLOSE_COMBAT",
+    "MOVE_RECOVER",
+    "MOVE_SPIKES"
   ]
 }
