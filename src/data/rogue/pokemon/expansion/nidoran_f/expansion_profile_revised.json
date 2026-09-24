@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "25",
+      "Species": "NIDORINA"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_NIDORAN_F": {
+      "Abilities": [
+        "ABILITY_PROTEAN",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_REGENERATOR"
+      ]
+    }
+  }
+}
