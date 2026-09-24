@@ -6,7 +6,7 @@
   "Evolutions": [
     {
       "Method": "EVO_LEVEL",
-      "Param": "32",
+      "Param": "40",
       "Species": "SPECIES_BANETTE"
     }
   ],
@@ -15,6 +15,11 @@
       "Types": [
         "TYPE_GHOST",
         "TYPE_NORMAL"
+      ],
+      "Abilities": [
+        "ABILITY_CURSED_BODY",
+        "ABILITY_MAGIC_BOUNCE",
+        "ABILITY_DISGUISE"
       ]
     }
   },
