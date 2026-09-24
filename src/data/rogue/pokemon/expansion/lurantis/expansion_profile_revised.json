@@ -1,0 +1,45 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE",
+    "TutorMoves": "MERGE"
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_OVERHEAT",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_FLARE_BLITZ",
+      "Level": 47
+    },
+    {
+      "Move": "MOVE_POWER_WHIP",
+      "Level": 56
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_FLAMETHROWER",
+    "MOVE_U_TURN"
+  ],
+   "PerSpecies": {
+    "SPECIES_LURANTIS": {
+      "Types": [
+        "TYPE_GRASS",
+        "TYPE_FIRE"
+      ],
+      "Abilities": [
+        "ABILITY_ADAPTABILITY",
+        "ABILITY_CONTRARY",
+        "ABILITY_MEGA_SOL"
+      ],
+      "BaseStats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 65,
+        "Speed": 115,
+        "SpAttack": 110,
+        "SpDefense": 65
+      }
+    }
+  }
+}
