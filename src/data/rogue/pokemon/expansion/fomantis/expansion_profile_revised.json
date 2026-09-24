@@ -1,0 +1,24 @@
+{
+  "BuildSettings": {
+    "TutorMoves": "MERGE"
+  },
+  "TutorMoves": [
+    "MOVE_U_TURN"
+  ],
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "44",
+      "Species": "SPECIES_LURANTIS"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_FOMANTIS": {
+      "Abilities": [
+        "ABILITY_LEAF_GUARD",
+        "ABILITY_CONTRARY",
+        "ABILITY_MEGA_SOL"
+      ]
+    }
+  }
+}
