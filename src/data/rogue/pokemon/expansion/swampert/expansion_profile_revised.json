@@ -7,13 +7,14 @@
     "SPECIES_SWAMPERT": {
       "Abilities": [
         "ABILITY_TORRENT",
-        "ABILITY_DAMP",
-        "ABILITY_WATER_VEIL"
+        "ABILITY_POISON_HEAL",
+        "ABILITY_REGENERATOR"
       ]
     }
   },
   "TutorMoves": [
     "MOVE_TOXIC",
+    "MOVE_RECOVER",
     "MOVE_SCALD"
   ],
   "CompetitiveSets": [
