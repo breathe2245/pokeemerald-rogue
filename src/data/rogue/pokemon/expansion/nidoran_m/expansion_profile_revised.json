@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "25",
+      "Species": "NIDORINO"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_NIDORAN_M": {
+      "Abilities": [
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_MERCILESS"
+      ]
+    }
+  }
+}
