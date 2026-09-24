@@ -1,0 +1,26 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "30",
+      "Species": "SPECIES_SEADRA"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_SEADRA": {
+      "Abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_DRIZZLE",
+        "ABILITY_WATER_BUBBLE"
+      ],
+      "BaseStats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Speed": 60,
+        "SpAttack": 70,
+        "SpDefense": 30
+      }
+  }
+}
+}
