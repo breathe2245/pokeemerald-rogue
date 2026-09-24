@@ -1,0 +1,26 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "30",
+      "Species": "SPECIES_KINGDRA"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_SEADRA": {
+      "Abilities": [
+        "ABILITY_SWIFT_SWIM",
+        "ABILITY_DRIZZLE",
+        "ABILITY_WATER_BUBBLE"
+      ],
+      "BaseStats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 85,
+        "Speed": 85,
+        "SpAttack": 95,
+        "SpDefense": 45
+      }
+  }
+}
+}
