@@ -1,7 +1,21 @@
 {
   "BuildSettings": {
-    "TutorMoves": "MERGE"
+    "LevelUpMoves": "MERGE"
   },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_RECOVER",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_ICICLE_CRASH",
+      "Level": 62
+    },
+    {
+      "Move": "MOVE_MOUNTAIN_GALE",
+      "Level": 71
+    }
+  ],
    "PerSpecies": {
     "SPECIES_ABOMASNOW": {
       "BaseStats": {
@@ -28,10 +42,5 @@
         "SpDefense": 150
       }
     }
-  },
-  "TutorMoves": [
-    "MOVE_RECOVER",
-    "MOVE_ICICLE_CRASH",
-    "MOVE_MOUNTAIN_GALE"
-  ]
+  }
 }
