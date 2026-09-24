@@ -11,6 +11,11 @@
   ],
   "PerSpecies": {
     "SPECIES_HATTREM": {
+      "Abilities": [
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_BERSERK",
+        "ABILITY_MAGIC_BOUNCE"
+      ],
       "BaseStats": {
         "HP": 67,
         "Attack": 50,
