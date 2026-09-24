@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "27",
+      "Species": "SPECIES_ROSELIA"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_BUDEW": {
+      "Abilities": [
+        "ABILITY_SERENE_GRACE",
+        "ABILITY_ADAPTABILITY",
+        "ABILITY_PROTEAN"
+      ]
+    }
+  }
+}
