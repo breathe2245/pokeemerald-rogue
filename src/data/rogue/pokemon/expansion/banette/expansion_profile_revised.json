@@ -11,9 +11,9 @@
         "TYPE_NORMAL"
       ],
       "Abilities": [
-        "ABILITY_DISGUISE",
+        "ABILITY_CURSED_BODY",
         "ABILITY_MAGIC_BOUNCE",
-        "ABILITY_CURSED_BODY"
+        "ABILITY_DISGUISE"
       ],
       "BaseStats": {
         "HP": 94,
