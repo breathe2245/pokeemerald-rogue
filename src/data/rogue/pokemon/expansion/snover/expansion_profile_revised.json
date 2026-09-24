@@ -1,4 +1,17 @@
 {
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE"
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_RECOVER",
+      "Level": 0
+    },
+    {
+      "Move": "MOVE_ICICLE_CRASH",
+      "Level": 55
+    }
+  ],
   "Evolutions": [
     {
       "Method": "EVO_LEVEL",
