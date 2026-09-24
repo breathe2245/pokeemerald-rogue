@@ -1,47 +1,110 @@
 {
   "BuildSettings": {
-    "LevelUpMoves": "REPLACE"
+    "LevelUpMoves": "REPLACE",
+    "TutorMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_NIDOKING": {
+      "Abilities": [
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_MERCILESS"
+      ],
+      "BaseStats": {
+        "HP": 125,
+        "Attack": 90,
+        "Defense": 95,
+        "Speed": 85,
+        "SpAttack": 65,
+        "SpDefense": 95
+      }
+    }
   },
   "LevelUpMoves": [
     {
       "Move": "MOVE_DRILL_RUN",
-      "Level": 1
+      "Level": 0
     },
     {
       "Move": "MOVE_SUPERPOWER",
-      "Level": 1
+      "Level": 0
     },
     {
-      "Move": "MOVE_SCRATCH",
-      "Level": 1
+      "Move": "MOVE_CHIP_AWAY",
+      "Level": 0
     },
     {
-      "Move": "MOVE_TAIL_WHIP",
-      "Level": 1
+      "Move": "MOVE_THRASH",
+      "Level": 0
     },
     {
-      "Move": "MOVE_DOUBLE_KICK",
-      "Level": 1
+      "Move": "MOVE_BANEFUL_BUNKER",
+      "Level": 0
     },
     {
       "Move": "MOVE_POISON_STING",
       "Level": 1
     },
     {
-      "Move": "MOVE_CHIP_AWAY",
-      "Level": 23
+      "Move": "MOVE_LEER",
+      "Level": 1
     },
     {
-      "Move": "MOVE_BODY_SLAM",
-      "Level": 35
+      "Move": "MOVE_PECK",
+      "Level": 1
     },
     {
-      "Move": "MOVE_EARTH_POWER",
+      "Move": "MOVE_FOCUS_ENERGY",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_FURY_ATTACK",
+      "Level": 15
+    },
+    {
+      "Move": "MOVE_TOXIC_SPIKES",
+      "Level": 25
+    },
+    {
+      "Move": "MOVE_DOUBLE_KICK",
+      "Level": 29
+    },
+    {
+      "Move": "MOVE_BITE",
+      "Level": 36
+    },
+    {
+      "Move": "MOVE_HELPING_HAND",
       "Level": 43
     },
     {
-      "Move": "MOVE_SUPERPOWER",
-      "Level": 58
+      "Move": "MOVE_TOXIC",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_FLATTER",
+      "Level": 57
+    },
+    {
+      "Move": "MOVE_CRUNCH",
+      "Level": 67
+    },
+    {
+      "Move": "MOVE_GUNK_SHOT",
+      "Level": 70
+    },
+    {
+      "Move": "MOVE_EARTH_POWER",
+      "Level": 73
+    },
+    {
+      "Move": "MOVE_HEADLONG_RUSH",
+      "Level": 81
     }
+  ],
+  "TutorMoves": [
+    "MOVE_CLOSE_COMBAT",
+    "MOVE_RECOVER",
+    "MOVE_SPIKES"
   ]
 }
