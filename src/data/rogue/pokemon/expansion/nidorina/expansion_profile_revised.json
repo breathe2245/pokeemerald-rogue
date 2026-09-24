@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "50",
+      "Species": "NIDOQUEEN"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_NIDORINA": {
+      "Abilities": [
+        "ABILITY_PROTEAN",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_REGENERATOR"
+      ]
+    }
+  }
+}
