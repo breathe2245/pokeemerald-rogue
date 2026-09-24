@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "50",
+      "Species": "NIDOKING"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_NIDORINO": {
+      "Abilities": [
+        "ABILITY_TOUGH_CLAWS",
+        "ABILITY_TOXIC_DEBRIS",
+        "ABILITY_MERCILESS"
+      ]
+    }
+  }
+}
