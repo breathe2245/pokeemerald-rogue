@@ -17,12 +17,12 @@
         "SpAttack": 125,
         "SpDefense": 85
       }
-    },
+    }
   },
   "TutorMoves": [
     "MOVE_EARTH_POWER",
     "MOVE_AURA_SPHERE",
     "MOVE_NASTY_PLOT",
     "MOVE_CALM_MIND"
-  ],
+  ]
 }
