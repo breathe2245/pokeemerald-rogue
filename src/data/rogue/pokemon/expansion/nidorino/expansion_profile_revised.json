@@ -3,7 +3,7 @@
     {
       "Method": "EVO_LEVEL",
       "Param": "50",
-      "Species": "NIDOKING"
+      "Species": "SPECIES_NIDOKING"
     }
   ],
   "PerSpecies": {
