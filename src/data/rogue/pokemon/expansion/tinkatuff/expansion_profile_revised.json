@@ -11,6 +11,11 @@
   ],
   "PerSpecies": {
     "SPECIES_TINKATUFF": {
+      "Abilities": [
+        "ABILITY_TECHNICIAN",
+        "ABILITY_PRANKSTER",
+        "ABILITY_SHEER_FORCE"
+      ],
       "BaseStats": {
         "HP": 65,
         "Attack": 75,
