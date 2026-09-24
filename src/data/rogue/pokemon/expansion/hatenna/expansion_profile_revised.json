@@ -4,6 +4,11 @@
   },
   "PerSpecies": {
     "SPECIES_HATENNA": {
+      "Abilities": [
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_BERSERK",
+        "ABILITY_MAGIC_BOUNCE"
+      ],
       "BaseStats": {
         "HP": 47,
         "Attack": 30,
