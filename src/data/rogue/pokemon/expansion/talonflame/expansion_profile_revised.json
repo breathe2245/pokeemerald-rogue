@@ -1,19 +1,23 @@
 {
   "BuildSettings": {
+    "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
   "PerSpecies": {
     "SPECIES_TALONFLAME": {
       "BaseStats": {
-        "HP": 78,
-        "Attack": 91,
-        "Defense": 71,
+        "HP": 83,
+        "Attack": 101,
+        "Defense": 91,
         "Speed": 126,
-        "SpAttack": 74,
-        "SpDefense": 69
+        "SpAttack": 50,
+        "SpDefense": 89
       }
     }
   },
+  "TutorMoves": [
+    "MOVE_CLOSE_COMBAT"
+  ],
   "CompetitiveSets": [
     {
       "Moves": [
