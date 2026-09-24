@@ -2,7 +2,7 @@
   "Evolutions": [
     {
       "Method": "EVO_LEVEL",
-      "Param": "30",
+      "Param": "55",
       "Species": "SPECIES_KINGDRA"
     }
   ],
