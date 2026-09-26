@@ -4,7 +4,7 @@
     "TutorMoves": "MERGE"
   },
   "PerSpecies": {
-    "SPECIES_NIDOKING": {
+    "SPECIES_NIDOQUEEN": {
       "Abilities": [
         "ABILITY_TOUGH_CLAWS",
         "ABILITY_TOXIC_DEBRIS",
