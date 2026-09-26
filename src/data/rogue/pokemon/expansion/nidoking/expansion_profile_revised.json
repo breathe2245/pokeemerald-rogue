@@ -105,6 +105,7 @@
   "TutorMoves": [
     "MOVE_CLOSE_COMBAT",
     "MOVE_RECOVER",
+    "MOVE_SWORDS_DANCE",
     "MOVE_SPIKES"
   ]
 }
