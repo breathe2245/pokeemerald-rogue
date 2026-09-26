@@ -4,6 +4,23 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_SNORLAX": {
+      "Abilities": [
+        "ABILITY_COMATOSE",
+        "ABILITY_THICK_FAT",
+        "ABILITY_POISON_HEAL"
+      ],
+      "BaseStats": {
+        "HP": 160,
+        "Attack": 125,
+        "Defense": 80,
+        "Speed": 30,
+        "SpAttack": 50,
+        "SpDefense": 110
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_SLACK_OFF",
@@ -83,7 +100,10 @@
     }
   ],
   "TutorMoves": [
-    "MOVE_ROCK_CLIMB"
+    "MOVE_ROCK_CLIMB",
+    "MOVE_RETURN",
+    "MOVE_SWORDS_DANCE",
+    "MOVE_FRUSTRATION"
   ],
   "CompetitiveSets": [
     {
