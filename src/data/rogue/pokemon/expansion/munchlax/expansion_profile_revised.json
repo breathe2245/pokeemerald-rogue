@@ -1,0 +1,19 @@
+{
+  "BuildSettings": {
+    "TutorMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_MUNCHLAX": {
+      "Abilities": [
+        "ABILITY_COMATOSE",
+        "ABILITY_THICK_FAT",
+        "ABILITY_POISON_HEAL"
+      ]
+    }
+  },
+  "TutorMoves": [
+    "MOVE_RETURN",
+    "MOVE_SWORDS_DANCE",
+    "MOVE_FRUSTRATION"
+  ]
+}
