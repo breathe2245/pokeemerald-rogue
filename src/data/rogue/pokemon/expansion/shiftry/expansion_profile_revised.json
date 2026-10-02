@@ -82,6 +82,7 @@
   "TutorMoves": [
     "MOVE_LEAF_BLADE",
     "MOVE_ROOST",
+    "MOVE_EARTHQUAKE",
     "MOVE_RETURN",
     "MOVE_FRUSTRATION"
   ],
