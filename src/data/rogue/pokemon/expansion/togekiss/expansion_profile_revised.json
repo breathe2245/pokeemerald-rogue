@@ -3,6 +3,23 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "REPLACE"
   },
+  "PerSpecies": {
+    "SPECIES_TOGEKISS": {
+      "Abilities": [
+        "ABILITY_SERENE_GRACE",
+        "ABILITY_AERILATE",
+        "ABILITY_MAGIC_GUARD"
+      ],
+      "BaseStats": {
+        "HP": 95,
+        "Attack": 50,
+        "Defense": 95,
+        "Speed": 80,
+        "SpAttack": 120,
+        "SpDefense": 115
+      }
+    }
+  },
   "TutorMoves": [
     "MOVE_SOFT_BOILED",
     "MOVE_CALM_MIND",
