@@ -121,7 +121,8 @@
     }
   ],
   "TutorMoves": [
-    "MOVE_DUAL_WINGBEAT"
+    "MOVE_DUAL_WINGBEAT",
+    "MOVE_FOCUS_BLAST"
   ],
   "CompetitiveSets": [
     {
