@@ -1,16 +1,42 @@
 {
   "BuildSettings": {
+    "LevelUpMoves": "MERGE",
+    "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
   "PerSpecies": {
     "SPECIES_DUSKNOIR": {
+      "Types": [
+        "TYPE_GHOST",
+        "TYPE_DARK"
+      ],
       "Abilities": [
-        "ABILITY_IRON_FIST",
-        "ABILITY_NONE",
-        "ABILITY_FRISK"
-      ]
+        "ABILITY_SHADOW_SHIELD",
+        "ABILITY_REGENERATOR",
+        "ABILITY_DARK_AURA"
+      ],
+      "BaseStats": {
+        "HP": 85,
+        "Attack": 120,
+        "Defense": 130,
+        "Speed": 45,
+        "SpAttack": 45,
+        "SpDefense": 130
+      }
     }
   },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_SPECTRAL_THIEF",
+      "Level": 58
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_CLOSE_COMBAT",
+    "MOVE_KNOCK_OFF",
+    "MOVE_RECOVER",
+    "MOVE_SWORDS_DANCE"
+  ],
   "CompetitiveSets": [
     {
       "Moves": [
@@ -19,7 +45,7 @@
         "MOVE_SHADOW_SNEAK",
         "MOVE_FOCUS_PUNCH"
       ],
-      "Ability": "ABILITY_FRISK",
+      "Ability": "ABILITY_SHADOW_SHIELD",
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_ADAMANT",
       "HiddenPower": null,
@@ -35,7 +61,7 @@
         "MOVE_THUNDER_PUNCH",
         "MOVE_EARTHQUAKE"
       ],
-      "Ability": "ABILITY_IRON_FIST",
+      "Ability": "ABILITY_SHADOW_SHIELD",
       "Item": "ITEM_ASSAULT_VEST",
       "Nature": "NATURE_HARDY",
       "HiddenPower": null,
