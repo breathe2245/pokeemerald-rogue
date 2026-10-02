@@ -9,7 +9,20 @@
       "Types": [
         "TYPE_WATER",
         "TYPE_FAIRY"
-      ]
+      ],
+      "Abilities": [
+        "ABILITY_MARVEL_SCALE",
+        "ABILITY_COMPETITIVE",
+        "ABILITY_FAIRY_AURA"
+      ],
+      "BaseStats": {
+        "HP": 95,
+        "Attack": 60,
+        "Defense": 79,
+        "Speed": 81,
+        "SpAttack": 115,
+        "SpDefense": 125
+      }
     }
   },
   "LevelUpMoves": [
