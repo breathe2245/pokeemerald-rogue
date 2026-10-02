@@ -15,6 +15,7 @@
   "TutorMoves": [
     "MOVE_TOXIC",
     "MOVE_RECOVER",
+    "MOVE_SHORE_UP",
     "MOVE_SCALD"
   ],
   "CompetitiveSets": [
