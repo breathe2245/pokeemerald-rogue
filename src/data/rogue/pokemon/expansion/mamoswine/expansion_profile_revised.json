@@ -1,0 +1,42 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE",
+    "TutorMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_MAMOSWINE": {
+      "Abilities": [
+        "ABILITY_STAMINA",
+        "ABILITY_SLUSH_RUSH",
+        "ABILITY_REFRIGERATE"
+      ],
+      "BaseStats": {
+        "HP": 120,
+        "Attack": 155,
+        "Defense": 85,
+        "Speed": 80,
+        "SpAttack": 50,
+        "SpDefense": 65
+      }
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_QUICK_ATTACK",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_SLACK_OFF",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_HEADLONG_RUSH",
+      "Level": 68
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_SWORDS_DANCE",
+    "MOVE_RETURN",
+    "MOVE_FRUSTRATION"
+  ]
+}
