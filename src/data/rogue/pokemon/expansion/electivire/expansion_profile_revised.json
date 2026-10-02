@@ -11,10 +11,18 @@
         "TYPE_FIGHTING"
       ],
       "Abilities": [
-        "ABILITY_MOTOR_DRIVE",
+        "ABILITY_GALVANIZE",
         "ABILITY_IRON_FIST",
-        "ABILITY_VITAL_SPIRIT"
-      ]
+        "ABILITY_ELECTRIC_SURGE"
+      ],
+      "BaseStats": {
+        "HP": 90,
+        "Attack": 145,
+        "Defense": 110,
+        "Speed": 125,
+        "SpAttack": 30,
+        "SpDefense": 55
+      }
     }
   },
   "LevelUpMoves": [
@@ -24,6 +32,14 @@
     },
     {
       "Move": "MOVE_MACH_PUNCH",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_EXTREME_SPEED",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_SLACK_OFF",
       "Level": 1
     },
     {
@@ -129,6 +145,8 @@
   ],
   "TutorMoves": [
     "MOVE_ROCK_CLIMB",
+    "MOVE_RETURN",
+    "MOVE_FRUSTRATION",
     "MOVE_DRAIN_PUNCH"
   ],
   "CompetitiveSets": [
