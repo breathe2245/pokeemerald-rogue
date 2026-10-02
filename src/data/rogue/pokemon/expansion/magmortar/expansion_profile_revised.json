@@ -6,11 +6,23 @@
   },
   "PerSpecies": {
     "SPECIES_MAGMORTAR": {
+      "Types": [
+        "TYPE_FIRE",
+        "TYPE_STEEL"
+      ],
       "Abilities": [
         "ABILITY_FLASH_FIRE",
         "ABILITY_QUICK_DRAW",
-        "ABILITY_VITAL_SPIRIT"
-      ]
+        "ABILITY_MEGA_LAUNCHER"
+      ],
+      "BaseStats": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 125,
+        "Speed": 30,
+        "SpAttack": 145,
+        "SpDefense": 110
+      }
     }
   },
   "LevelUpMoves": [
@@ -87,6 +99,10 @@
       "Level": 40
     },
     {
+      "Move": "MOVE_FLASH_CANNON",
+      "Level": 42
+    },
+    {
       "Move": "MOVE_SLUDGE_BOMB",
       "Level": 43
     },
@@ -116,7 +132,12 @@
     }
   ],
   "TutorMoves": [
-    "MOVE_ROCK_CLIMB"
+    "MOVE_ROCK_CLIMB",
+    "MOVE_STEEL_BEAM",
+    "MOVE_NASTY_PLOT",
+    "MOVE_CALM_MIND",
+    "MOVE_RECOVER",
+    "MOVE_WATER_PULSE"
   ],
   "CompetitiveSets": [
     {
