@@ -1,0 +1,51 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_GYARADOS": {
+      "Types": [
+        "TYPE_WATER",
+        "TYPE_DRAGON"
+      ],
+      "Abilities": [
+        "ABILITY_INTIMADATE",
+        "ABILITY_MOXIE",
+        "ABILITY_DRAGONS_MAW"
+      ],
+      "BaseStats": {
+        "HP": 95,
+        "Attack": 140,
+        "Defense": 79,
+        "Speed": 81,
+        "SpAttack": 60,
+        "SpDefense": 100
+      }
+    },
+    "SPECIES_GYARADOS_MEGA": {
+      "Abilities": [
+        "ABILITY_DARK_AURA",
+        "ABILITY_DARK_AURA",
+        "ABILITY_DARK_AURA"
+      ],
+      "BaseStats": {
+        "HP": 95,
+        "Attack": 170,
+        "Defense": 119,
+        "Speed": 81,
+        "SpAttack": 60,
+        "SpDefense": 130
+      }
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_DRAGON_HAMMER"
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_KNOCK_OFF"
+      "Level": 1
+    }
+  ]
+}
