@@ -1,4 +1,11 @@
 {
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "45",
+      "Species": "SPECIES_SHIFTRY"
+    }
+  ],
   "PerSpecies": {
     "SPECIES_NUZLEAF": {
       "BaseStats": {
