@@ -13,6 +13,7 @@
   },
   "TutorMoves": [
     "MOVE_CRUNCH",
+    "MOVE_CLOSE_COMBAT",
     "MOVE_CEASELESS_EDGE"
   ]
 }
