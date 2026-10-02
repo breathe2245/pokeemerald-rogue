@@ -40,11 +40,11 @@
   },
   "LevelUpMoves": [
     {
-      "Move": "MOVE_DRAGON_HAMMER"
+      "Move": "MOVE_DRAGON_HAMMER",
       "Level": 1
     },
     {
-      "Move": "MOVE_KNOCK_OFF"
+      "Move": "MOVE_KNOCK_OFF",
       "Level": 1
     }
   ]
