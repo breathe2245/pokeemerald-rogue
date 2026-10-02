@@ -19,6 +19,7 @@
   ],
   "TutorMoves": [
     "MOVE_FLAMETHROWER",
+    "MOVE_BLAZE_KICK",
     "MOVE_U_TURN"
   ],
    "PerSpecies": {
