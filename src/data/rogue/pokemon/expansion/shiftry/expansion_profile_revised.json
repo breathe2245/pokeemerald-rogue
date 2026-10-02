@@ -6,13 +6,18 @@
   },
   "PerSpecies": {
     "SPECIES_SHIFTRY": {
+      "Abilities": [
+        "ABILITY_AERILATE",
+        "ABILITY_GALE_WINGS",
+        "ABILITY_DARK_AURA"
+      ],
       "BaseStats": {
         "HP": 90,
-        "Attack": 120,
-        "Defense": 60,
-        "Speed": 80,
-        "SpAttack": 90,
-        "SpDefense": 60
+        "Attack": 110,
+        "Defense": 80,
+        "Speed": 85,
+        "SpAttack": 110,
+        "SpDefense": 80
       }
     }
   },
@@ -26,7 +31,15 @@
       "Level": 1
     },
     {
-      "Move": "MOVE_RAZOR_LEAF",
+      "Move": "MOVE_EXTREME_SPEED",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_HYPER_VOICE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_FAKE_OUT",
       "Level": 1
     },
     {
@@ -52,10 +65,25 @@
     {
       "Move": "MOVE_LEAF_STORM",
       "Level": 44
+    },
+    {
+      "Move": "MOVE_BRAVE_BIRD",
+      "Level": 48
+    },
+    {
+      "Move": "MOVE_WOOD_HAMMER",
+      "Level": 54
+    },
+    {
+      "Move": "MOVE_BOOMBURST",
+      "Level": 58
     }
   ],
   "TutorMoves": [
-    "MOVE_LEAF_BLADE"
+    "MOVE_LEAF_BLADE",
+    "MOVE_ROOST",
+    "MOVE_RETURN",
+    "MOVE_FRUSTRATION"
   ],
   "CompetitiveSets": [
     {
