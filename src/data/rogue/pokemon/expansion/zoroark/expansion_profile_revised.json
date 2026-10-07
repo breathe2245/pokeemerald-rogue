@@ -1,0 +1,48 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE",
+    "TutorMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_ZOROARK": {
+      "Types": [
+        "TYPE_DARK",
+        "TYPE_FAIRY"
+      ],
+      "Abilities": [
+        "ABILITY_SHADOW_SHIELD",
+        "ABILITY_PIXILATE",
+        "ABILITY_ILLUSION"
+      ],
+      "BaseStats": {
+        "HP": 60,
+        "Attack": 120,
+        "Defense": 60,
+        "Speed": 135,
+        "SpAttack": 120,
+        "SpDefense": 60
+      }
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_EXTREME_SPEED",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_PLAY_ROUGH",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_MOONBLAST",
+      "Level": 56
+    },
+    {
+      "Move": "MOVE_HYPER_VOICE",
+      "Level": 60
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_DRAINING_KISS"
+  ]
+}
