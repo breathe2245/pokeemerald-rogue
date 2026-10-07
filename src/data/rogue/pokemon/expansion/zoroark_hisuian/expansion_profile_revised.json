@@ -11,10 +11,10 @@
       ],
       "BaseStats": {
         "HP": 60,
-        "Attack": 120,
+        "Attack": 120,
         "Defense": 50,
         "Speed": 120,
-        "SpAttack": 155,
+        "SpAttack": 155,
         "SpDefense": 50
       }
     }
