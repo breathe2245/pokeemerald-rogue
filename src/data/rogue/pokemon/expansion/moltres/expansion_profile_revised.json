@@ -3,6 +3,15 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "REPLACE"
   },
+  "PerSpecies": {
+    "SPECIES_MOLTRES": {
+      "Abilities": [
+        "ABILITY_FLAME_BODY",
+        "ABILITY_SOLAR_POWER",
+        "ABILITY_DROUGHT"
+      ]
+    }
+  },
   "TutorMoves": [
     "MOVE_EXTRASENSORY"
   ],
