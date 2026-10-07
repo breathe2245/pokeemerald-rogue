@@ -3,8 +3,26 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_ARTICUNO": {
+      "Abilities": [
+        "ABILITY_GALE_WINGS",
+        "ABILITY_SLUSH_RUSH",
+        "ABILITY_SNOW_WARNING"
+      ],
+      "BaseStats": {
+        "HP": 95,
+        "Attack": 85,
+        "Defense": 90,
+        "Speed": 125,
+        "SpAttack": 100,
+        "SpDefense": 85
+      }
+    }
+  },
   "TutorMoves": [
-    "MOVE_EXTRASENSORY"
+    "MOVE_EXTRASENSORY",
+    "MOVE_AEROBLAST"
   ],
   "CompetitiveSets": [
     {
