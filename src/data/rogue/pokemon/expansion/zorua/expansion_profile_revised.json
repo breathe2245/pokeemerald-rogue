@@ -1,0 +1,22 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "47",
+      "Species": "SPECIES_ZOROARK"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_ZORUA": {
+      "Types": [
+        "TYPE_DARK",
+        "TYPE_FAIRY"
+      ],
+      "Abilities": [
+        "ABILITY_SHADOW_SHIELD",
+        "ABILITY_PIXILATE",
+        "ABILITY_ILLUSION"
+      ],
+    }
+  }
+}
