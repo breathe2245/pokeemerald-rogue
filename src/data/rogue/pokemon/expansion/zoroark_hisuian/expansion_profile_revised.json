@@ -1,0 +1,32 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_ZOROARK_HISUIAN": {
+      "Abilities": [
+        "ABILITY_ADAPTABILITY",
+        "ABILITY_FLARE_BOOST",
+        "ABILITY_ILLUSION"
+      ],
+      "BaseStats": {
+        "HP": 60,
+        "Attack": 120,
+        "Defense": 50,
+        "Speed": 120,
+        "SpAttack": 155,
+        "SpDefense": 50
+      }
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_EXTREME_SPEED",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_BOOMBURST",
+      "Level": 60
+    }
+  ]
+}
