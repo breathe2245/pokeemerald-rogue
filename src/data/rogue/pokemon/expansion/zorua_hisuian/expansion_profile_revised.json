@@ -1,0 +1,18 @@
+{
+  "Evolutions": [
+    {
+      "Method": "EVO_LEVEL",
+      "Param": "47",
+      "Species": "SPECIES_ZOROARK_HISUIAN"
+    }
+  ],
+  "PerSpecies": {
+    "SPECIES_ZORUA_HISUIAN": {
+      "Abilities": [
+        "ABILITY_ADAPTABILITY",
+        "ABILITY_FLARE_BOOST",
+        "ABILITY_ILLUSION"
+      ]
+    }
+  }
+}
